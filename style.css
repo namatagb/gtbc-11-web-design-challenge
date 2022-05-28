@@ -1,13 +1,8 @@
-/* giving the body a dark background to better see the bright colored boxes */
+
 body {
     background: rgb(177, 166, 200);
   }
-.fstPage {
-  background: rgb(177, 166, 200);
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
+
 @media (max-width: 600px) {
     /* .box-1 {
       background: grey;
